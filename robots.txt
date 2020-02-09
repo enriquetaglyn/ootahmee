@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iethemahgh.jnkoury.com/sitemap.xml
